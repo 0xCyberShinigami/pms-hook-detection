@@ -1,6 +1,7 @@
 apply plugin: 'com.android.application'
 
 android {
+    namespace 'com.example.hellojni'
     compileSdkVersion 29
     defaultConfig {
         applicationId 'com.example.hellojni'
